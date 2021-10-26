@@ -1,0 +1,51 @@
+html 
+{
+    font-family: sans-serif;color: darkgray;
+}
+body {
+  text-align:center
+}
+h1 , h4
+{ margin-right: 19%;
+    padding-top: 10px;
+    
+}
+    
+li {
+    text-align: justify;
+margin-left: 430px;
+    margin-right: 500px;
+   font-family:inherit;color:gainsboro;
+    padding-top: 30px;
+   
+    }
+img { width: 100%;
+     }
+
+p {
+    margin-left: 450px;
+    margin-right: 450px;
+    text-align: justify;
+    color: darkgrey;
+ 
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+    color:darkgray;
+}
+a:link { 
+    color:darkgray;
+ 
+  }
+.enlace1:link{
+    color:darkgray;
+}
+
+
+#cabecera{
+    background-image:url(../imagen/fondo.jpg);
+    height: 100vw;
+   
+}
