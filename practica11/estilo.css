@@ -1,0 +1,17 @@
+h1 {text-align: center;
+    font-family:sans-serif;}
+    img area{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        justify-content: baseline;
+       
+    }
+    a:hover img{
+        filter: saturate(1);}
+    .opacity{ padding: 20px;
+      
+    filter: opacity(70%);
+    }
+    img{max-width: 400px;}
